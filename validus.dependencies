@@ -10,9 +10,9 @@
 "branch": "lp5.1"
 },
 {
-"repository": "Validus-Kernel/android_kernel_motorola_msm8226",
+"repository": "CyanogenMod/android_kernel_motorola_msm8226",
 "target_path": "kernel/motorola/msm8226",
-"branch": "optimus-titan"
+"branch": "cm-12.1"
 },
 {
 "repository": "TheMuppets/proprietary_vendor_motorola",
